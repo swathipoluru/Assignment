@@ -159,7 +159,7 @@ button:hover {
         order: 2;
         min-height: 280px;
          height: 220px;
-        width: 90%;
+        width: 100%;
         /* background-size: cover; */
         background-position: center;
         padding-right: 0;
@@ -264,7 +264,7 @@ font-weight: 800;
 
   .layout img {
     width: 100%;
-    max-width: 480px;
+    max-width: 600px;
     height: 220px;
   }
 
@@ -275,7 +275,7 @@ font-weight: 800;
 
   .text-box {
     width: 90%;
-    max-width: 420px;
+    max-width: 600px;
     padding: 35px 25px;
     height: 220px;
     /* height: auto; */
